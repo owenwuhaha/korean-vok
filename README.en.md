@@ -2,23 +2,37 @@
 
 <div align="center">
 
-# KoreanVok
+# KoreanVok · 韩剧词
 
-### Watch Korean dramas, learn real Korean.
+### Turn Korean drama, film & podcast subtitles into an offline HTML flashcard deck.
 
 Author: 疯狂的豇豆 · [www.crazyowen.cn](https://www.crazyowen.cn)
 
-Give it a Korean drama or film and episode, and it adds that episode's vocabulary to your reusable HTML learner.
+> The idiomatic phrases you pick up from a Korean drama are often the most useful — and the hardest to memorize. Feed a Korean drama, film, or podcast into **KoreanVok** and it extracts that episode's high-frequency words into an HTML flashcard deck you can open with a double-click: offline, no Anki, no network.
 
-[Download demo](https://github.com/owenwuhaha/korean-vok/raw/refs/heads/main/examples/demo.html) · [Install to Codex](#install-to-codex) · [Usage](#usage)
+[Open the live demo (8 original Korean sentences)](https://github.com/owenwuhaha/korean-vok/raw/refs/heads/main/examples/demo.html) · [Install](#install) · [Usage](#usage)
 
 ![MIT License](https://img.shields.io/github/license/owenwuhaha/korean-vok?style=flat-square)
-![Reusable learner](https://img.shields.io/badge/output-reusable%20HTML-235a47?style=flat-square)
+![Reusable HTML](https://img.shields.io/badge/output-reusable%20HTML-235a47?style=flat-square)
 ![No Anki](https://img.shields.io/badge/Anki-not%20required-687772?style=flat-square)
 
 </div>
 
-**KoreanVok** picks practical expressions from a real Korean episode and adds them to one shared HTML learner. The first use creates the learner and adds the first deck; later episodes are merged into the same file — open the page to switch decks. Flashcard self-rating is the default, with optional typed recall and automatic retry.
+---
+
+**In one line**: type "KoreanVok + show + episode" and it produces `~/Documents/korean-vok.html` — that episode's high-frequency practical Korean words, each with hanja, part of speech and grammar notes, plus Korean TTS. Self-rated flashcards by default; switch to typed recall with auto-grading and retry. Each new episode merges back into the same file, so **one HTML file is your Korean word bank**.
+
+**Who it's for**: people studying Korean through dramas/films/podcasts and wanting to build vocabulary along the way; TOPIK / OPIK / SIKAT exam prep using real sentences; anyone who wants flashcards with **zero install, fully offline**.
+
+**Why it's different**:
+
+| What you get | Notes |
+|---|---|
+| **Authentic language** | Every card comes from real subtitles, not textbook lines |
+| **Zero friction** | Double-click the HTML — no Anki, no server, no internet |
+| **Korean detail** | Nouns/verbs marked by part of speech (명사/동사/형용사); verb stems with common conjugations (먹-다 → 먹었다 / 먹고 싶다); particle combos / idioms (얼떨결에 하다) in grammar notes |
+| **Level-matched** | Defaults to TOPIK 3–4; give it your target level and it filters accordingly, with difficulty check-back |
+| **Always available** | Offline TTS (`ko-KR`), wrong answers auto-requeued for retry |
 
 > The demo page uses 8 original Korean sentences to showcase the learner; they do not come from any drama.
 

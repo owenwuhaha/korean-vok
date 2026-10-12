@@ -3,9 +3,9 @@ name: korean-vok
 version: 1.0.0
 display_name: 韩剧词
 display_name_en: KoreanVok
-description: 韩剧词，从韩语影视/剧集/电影/动画/播客的真实韩语字幕中提取适合 TOPIK 等级与韩语考试（TOPIK I/II 1–6 级 / OPIK / SIKAT）的词汇，加入通用 HTML 学习器；默认翻卡自评，可选输入回忆。用于“韩剧词”“看韩剧学韩语”“韩语词汇”“한국어 공부”“Korean vocab”“TOPIK 单語”等请求。
-description_zh: 韩剧词（KoreanVok）把韩语影视剧、电影、动画、播客的真实韩语字幕变成可随时学习的词汇卡。给出一部韩语剧集和集数，它就把这一集的韩语词条（含汉字词、品词、语法备注与 ko-KR 朗读）加入同一个独立 HTML 学习器；默认翻卡自评，可选输入回忆，无需 Anki、服务器或运行时。
-description_en: KoreanVok turns real Korean subtitles from TV series, films, animation and podcasts into a reusable, standalone HTML vocabulary trainer. Give it a Korean show and episode, and it adds that episode's words (with hanja, part of speech, grammar notes and ko-KR TTS) into one HTML file — flashcard self-rating by default, with optional typed recall, no Anki/server/runtime needed.
+description: 把韩语影视剧、电影、动画、播客的字幕变成一个能离线刷的 HTML 单词卡学习器。说出「韩剧词 + 剧名集数」，它就把该集的高频实用韩语词（带汉字词、品词、语法备注，并支持韩语朗读）加进同一个网页；默认翻卡自评，也可切成「输入回忆」错词重练，无需安装 Anki / 服务器 / 网络。支持按 TOPIK 1–6 / OPIK / SIKAT 等级筛词。也用于「看韩剧学韩语」「韩语词汇积累」「韩剧词」。
+description_zh: 韩剧词 · KoreanVok（韩语版语言学习 skill）：把韩语影视剧、电影、动画、播客的字幕变成一个能离线刷的 HTML 单词卡学习器。说出「韩剧词 + 剧名集数」，它就把该集的高频实用韩语词（带汉字词、品词、语法备注，并支持韩语朗读）加进同一个网页；默认翻卡自评，也可切成「输入回忆」错词重练，无需安装 Anki / 服务器 / 网络。支持按 TOPIK 1–6 / OPIK / SIKAT 等级筛词。
+description_en: KoreanVok — Korean language-learning skill. It turns Korean TV/film/animation/podcast subtitles into a standalone, offline HTML flashcard deck. Tell it "show + episode" and it extracts high-frequency practical Korean words (with hanja, part of speech, grammar notes and ko-KR TTS) into one reusable web page. Default is self-rating flashcards; you can switch to typed recall with auto-retry. No Anki, server, or network needed. Levels by TOPIK 1–6 / OPIK / SIKAT.
 ---
 
 # 韩剧词
