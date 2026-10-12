@@ -1,0 +1,111 @@
+{
+  "title": "韩剧词 · 交互体验",
+  "deck_id": "demo:original-examples:v1:ko",
+  "language": "Korean",
+  "exam_target": "",
+  "level_target": "3",
+  "selection_basis": "原创演示句，仅用于展示学习器功能",
+  "difficulty_feedback": "",
+  "sources": [
+    "原创演示句，仅展示学习页功能，不属于任何真实剧集。"
+  ],
+  "note": "演示版 · 8 个原创韩语例句。正式使用时会从你指定剧集的真实韩语字幕中选词。",
+  "cards": [
+    {
+      "term": "자신감",
+      "artikel": "명사",
+      "plural": "",
+      "grammar": "不可数名词；常用搭配：자신감을 가지다（有自信）/ 자신감을 잃다（失去自信）",
+      "answers": ["자신감", "자신감을"],
+      "meaning": "自信；自信心",
+      "ipa": "/dʒaɕɪŋgam̩/",
+      "sentence": "그녀는 점점 자신감을 잃어갔다.",
+      "translation": "她渐渐失去了自信。",
+      "targets": ["자신감"]
+    },
+    {
+      "term": "먹다",
+      "artikel": "동사",
+      "plural": "",
+      "grammar": "动词词干：먹-；常用活用：먹었다（过去）/ 먹고 싶다（想吃）/ 먹다/먹어보다（尝试）",
+      "answers": ["먹다", "먹고"],
+      "meaning": "吃；喝（酒、药等）",
+      "ipa": "/mot.kʌ̌/",
+      "sentence": "저녁을 먹으러 갑니다.",
+      "translation": "去吃晚饭。",
+      "targets": ["먹으러"]
+    },
+    {
+      "term": "어떡해",
+      "artikel": "감탄사",
+      "plural": "",
+      "grammar": "感叹词；口语中表“糟了/这可怎么办”，语气强烈",
+      "answers": ["어떡해", "어떡하라고"],
+      "meaning": "糟了；这可怎么办",
+      "ipa": "/ɯˈtʰɔ̠kʰɦɛ/",
+      "sentence": "어떡해, 지갑을 안 가져왔어!",
+      "translation": "糟了，钱包没带！",
+      "targets": ["어떡해"]
+    },
+    {
+      "term": "얼떨결",
+      "artikel": "명사",
+      "plural": "",
+      "grammar": "惯用语：얼떨결에 하다（不知不觉/顺水推舟地做了）",
+      "answers": ["얼떨결", "얼떨결에"],
+      "meaning": "无意识；不知不觉",
+      "ipa": "/ɯrɯtʰɘ̠l.ɡʌl/",
+      "sentence": "그 일은 얼떨결에 시작됐다.",
+      "translation": "那件事不知不觉就开始了。",
+      "targets": ["얼떨결"]
+    },
+    {
+      "term": "내키다",
+      "artikel": "형용사",
+      "plural": "",
+      "grammar": "常与 ~아/아/어지다 搭配：내키다（想做/有兴致）/ 내키지 않다（没兴致/不想）",
+      "answers": ["내키다", "내키지"],
+      "meaning": "想做；有兴致",
+      "ipa": "/nɛ̈ ki.dʌ/",
+      "sentence": "오늘은 운동이 별로 내키지 않는다.",
+      "translation": "今天没什么运动兴致。",
+      "targets": ["내키"]
+    },
+    {
+      "term": "마음",
+      "artikel": "명사",
+      "plural": "",
+      "grammar": "常用搭配：마음에 들다（中意/喜欢）/ 마음이 쓰이다（挂念）/ 마음이 급하다（心急）",
+      "answers": ["마음", "마음이"],
+      "meaning": "心；心情；想法",
+      "ipa": "/ma.mɯ̌/",
+      "sentence": "그 제안은 내 마음에 잘 든다.",
+      "translation": "那个提议我很中意。",
+      "targets": ["마음"]
+    },
+    {
+      "term": "조마조마",
+      "artikel": "의성어",
+      "plural": "",
+      "grammar": "拟声拟态词；常与 ~하다 搭配：조마조마하다（忐忑不安）",
+      "answers": ["조마조마", "조마조마하다"],
+      "meaning": "忐忑不安；提心吊胆",
+      "ipa": "/dʒo.ma.dʒo.ma/",
+      "sentence": "결과가 나올 때까지 조마조마했다.",
+      "translation": "在结果出来之前一直忐忑不安。",
+      "targets": ["조마조마"]
+    },
+    {
+      "term": "끝내다",
+      "artikel": "동사",
+      "plural": "",
+      "grammar": "动词；词干 끝- + -내다；常用：끝내다（结束）/ 끝내 (결코…) 않다（始终没有/终于不）",
+      "answers": ["끝내다", "끝내"],
+      "meaning": "结束；完成",
+      "ipa": "/ɡʌ̈t.nɛ̈.dʌ/",
+      "sentence": "회의를 끝내고 퇴근했다.",
+      "translation": "开完会就下班了。",
+      "targets": ["끝내"]
+    }
+  ]
+}
